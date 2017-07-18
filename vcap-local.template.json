@@ -6,12 +6,12 @@
         "label": "cloudantNoSQLDB",
         "plan": "Lite",
         "credentials": {
-          "username": "",
-          "password": "",
-          "host": "",
-          "port": 443,
-          "url": ""
-        }
+        "username": "22b31826-dc4d-4e1a-92ef-747e20980f6d-bluemix",
+        "password": "3c1fa7711ccffe485bfbb232757405304d1fae4956a5bf109d19d5f8956f5ca3",
+        "host": "22b31826-dc4d-4e1a-92ef-747e20980f6d-bluemix.cloudant.com",
+        "port": 443,
+        "url": "https://22b31826-dc4d-4e1a-92ef-747e20980f6d-bluemix:3c1fa7711ccffe485bfbb232757405304d1fae4956a5bf109d19d5f8956f5ca3@22b31826-dc4d-4e1a-92ef-747e20980f6d-bluemix.cloudant.com"
+          }
       }
     ]
   }
